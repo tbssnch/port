@@ -1,0 +1,18 @@
+.Contact {
+  height: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+.Contact p {
+  font-family: 'Playfair Display', serif;
+  font-size: 40px;
+}
+img  {
+  width: 75px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
