@@ -1,0 +1,15 @@
+.HeaderContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.navigation li {
+  display: inline;
+  margin: 20px;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+.logo {
+  width: 75px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
