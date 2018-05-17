@@ -4,9 +4,11 @@ import './Work.css';
 class Work extends Component {
   render() {
     return (
-        <div className="Container">
-          <p>Work</p>
-        </div>
+          <div className="ProjectContainer">
+            <div className="Project"><p>BandAid</p></div>
+            <div className="Project"><p>Tap Room</p></div>
+            <div className="Project"><p>Timbers Army</p></div>
+          </div>
     );
   }
 }
