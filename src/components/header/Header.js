@@ -12,7 +12,6 @@ class Header extends Component {
             <ul>
               <li><Link className="links" to="/">HOME</Link></li>
               <li><Link className="links" to="/Work">WORK</Link></li>
-              <li><Link className="links" to="/About">ABOUT</Link></li>
               <li><Link className="links" to="/Contact">CONTACT</Link></li>
             </ul>
           </div>
