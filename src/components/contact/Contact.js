@@ -14,8 +14,8 @@ class Contact extends Component {
               <p>let's work together</p>
             <div className="IconLinks">
               <a href="https://github.com/tbssnch"><img className="Github" src={github} alt="github"/></a>
-              <img className="Email" src={email} alt="email"/>
-              <img className="Linkedin" src={linkedin} alt="linkedin"/>
+              <a href="mailto:tbssnch@gmail.com"><img className="Email" src={email} alt="email"/></a>
+              <a href="https://www.linkedin.com/in/tbssnch/"><img className="Linkedin" src={linkedin} alt="linkedin"/></a>
             </div>
             </div>
 
