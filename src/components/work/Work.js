@@ -5,9 +5,9 @@ class Work extends Component {
   render() {
     return (
           <div className="ProjectContainer">
-            <div className="Project"><p>BandAid</p></div>
-            <div className="Project"><p>Tap Room</p></div>
-            <div className="Project"><p>Timbers Army</p></div>
+            <div className="Project"><p>BANDAID</p></div>
+            <div className="Project"><p>TAP ROOM</p></div>
+            <div className="Project"><p>TIMBERS ARMY</p></div>
           </div>
     );
   }

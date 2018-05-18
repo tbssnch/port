@@ -1,13 +1,22 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Playfair+Display');
 
+@font-face {
+  font-family: sans-serif;
+  src: local('Nexa Bold'), url(./assets/fonts/Nexa Bold.otf) format('otf');
+}
+
+@font-face {
+  font-family: sans-serif;
+  src: local('Nexa Light'), url(./assets/fonts/Nexa Light.otf) format('otf');
+}
+
 body {
   margin: 0;
   padding: 0;
-  font-family: sans-serif;
-  background-image: url('./assets/port-background.jpg');
+  background-color: #f5f5f5;
+  background-image:url('./assets/svg_background.svg'), url('./assets/asset_background1.jpg');
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: top;
 }
 
 .SlideIn-appear {

@@ -7,12 +7,10 @@ class Hero extends Component {
         <div className="HeroContainer">
           <div className="intro">
             <div className="Hello">
-              <p>hey there,</p>
-              <p>i'm tyler.</p>
+              <p>TYLER BUSSANICH</p>
             </div>
-            <div className="line"></div>
             <div className="title">
-              <p>web developer based in the pnw</p>
+              <p>WEB DEVELOPER BASED IN THE PNW</p>
             </div>
           </div>
         </div>
