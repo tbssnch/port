@@ -8,6 +8,10 @@
   margin: 20px;
   font-family: 'Open Sans Condensed', sans-serif;
 }
+.links {
+  text-decoration: none;
+  color: black;
+}
 .logo {
   width: 75px;
   margin-left: 20px;
