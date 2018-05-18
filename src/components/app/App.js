@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
-import Header from './Header.js';
-import Hero from './Hero.js';
-import Work from './Work.js';
-import Contact from './Contact.js';
-import TransitionAnimation from './TransitionAnimation';
+import Header from './../header/Header.js';
+import Hero from './../hero/Hero.js';
+import Work from './../work/Work.js';
+import Contact from './../contact/Contact.js';
+import TransitionAnimation from './../../TransitionAnimation';
 import './App.css';
 import { Switch, Route, withRouter } from 'react-router-dom';
 

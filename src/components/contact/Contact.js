@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import './Contact.css';
-import github from './assets/github-logo.svg';
-import linkedin from './assets/linkedin-logo.svg';
-import email from './assets/envelope.svg';
+import github from './../../assets/github-logo.svg';
+import linkedin from './../../assets/linkedin-logo.svg';
+import email from './../../assets/envelope.svg';
 
 
 
