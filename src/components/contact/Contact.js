@@ -11,7 +11,7 @@ class Contact extends Component {
     return (
           <div className="ContactContainer">
             <div className="Contact">
-              <p>let's work together</p>
+              <p>LET'S WORK TOGETHER</p>
             <div className="IconLinks">
               <a href="https://github.com/tbssnch"><img className="Github" src={github} alt="github"/></a>
               <a href="mailto:tbssnch@gmail.com"><img className="Email" src={email} alt="email"/></a>
