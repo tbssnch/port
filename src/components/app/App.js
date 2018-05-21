@@ -13,8 +13,8 @@ const App = () => {
         <Header />
           <Switch>
             <Route exact path='/' component={TransitionAnimation(Hero)} />
-            <Route path='/Work' component={TransitionAnimation(Work)} />
-            <Route path='/Contact' component={TransitionAnimation(Contact)} />
+            <Route path='/work' component={TransitionAnimation(Work)} />
+            <Route path='/contact' component={TransitionAnimation(Contact)} />
           </Switch>
         </div>
     );
