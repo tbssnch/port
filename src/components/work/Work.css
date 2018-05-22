@@ -1,4 +1,4 @@
-.ProjectContainer {
+.project-container {
   height: 100%;
   margin-top: 10%;
   display: flex;
@@ -7,7 +7,7 @@
   align-items: center;
   align-content: center;
 }
-.Project {
+.project {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -16,7 +16,7 @@
   margin: 2px;
   background-color: rgba(0, 0, 0, 0.5);
 }
-.Project p {
+.project p {
   font-family: 'Open Sans Condensed', sans-serif;
   color: #f5f5f5;
 }
@@ -24,18 +24,18 @@ a {
   text-decoration: none;
   text-align: center;
 }
-.Project h1 {
+.project h1 {
   display: none;
   font-family: 'Open Sans Condensed', sans-serif;
   color: #f5f5f5;
   text-align: center;
   font-size: 15px;
 }
-.Project:hover span{
+.project:hover span{
   display: none;
-  
+
 }
-.Project:hover h1 {
+.project:hover h1 {
   display: inline;
 }
 /* .Project:hover span:after{

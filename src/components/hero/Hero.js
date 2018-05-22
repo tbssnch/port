@@ -4,9 +4,9 @@ import './Hero.css';
 class Hero extends Component {
   render() {
     return (
-        <div className="HeroContainer">
+        <div className="hero-container">
           <div className="intro">
-            <div className="Hello">
+            <div className="hello">
               <p>TYLER BUSSANICH</p>
             </div>
             <div className="title">

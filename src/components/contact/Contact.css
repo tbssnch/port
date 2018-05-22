@@ -1,4 +1,4 @@
-.Contact {
+.contact {
   height: 100%;
   display: flex;
   flex-wrap: wrap;
@@ -8,7 +8,7 @@
   align-content: center;
   margin-top: 8%;
 }
-.Contact p {
+.contact p {
   font-family: 'Open Sans Condensed', sans-serif;
   font-size: 20px;
 }

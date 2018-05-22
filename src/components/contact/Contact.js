@@ -9,13 +9,13 @@ import email from './../../assets/envelope.svg';
 class Contact extends Component {
   render() {
     return (
-          <div className="ContactContainer">
-            <div className="Contact">
+          <div className="contact-container">
+            <div className="contact">
               <p>LET'S WORK TOGETHER</p>
-            <div className="IconLinks">
-              <a href="https://github.com/tbssnch" target="_blank"><img className="Github" src={github} alt="github"/></a>
-              <a href="mailto:tbssnch@gmail.com" target="_blank"><img className="Email" src={email} alt="email"/></a>
-              <a href="https://www.linkedin.com/in/tbssnch/" target="_blank"><img className="Linkedin" src={linkedin} alt="linkedin"/></a>
+            <div className="icon-links">
+              <a href="https://github.com/tbssnch" target="_blank"><img className="github" src={github} alt="github"/></a>
+              <a href="mailto:tbssnch@gmail.com" target="_blank"><img className="email" src={email} alt="email"/></a>
+              <a href="https://www.linkedin.com/in/tbssnch/" target="_blank"><img className="linkedin" src={linkedin} alt="linkedin"/></a>
             </div>
             </div>
 

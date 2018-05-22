@@ -1,4 +1,4 @@
-.HeroContainer {
+.hero-container {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -10,7 +10,7 @@
 }
 
 
-.Hello p {
+.hello p {
   font-family: 'Josefin Sans', sans-serif;
   font-weight: 700;
   font-size: 60px;
